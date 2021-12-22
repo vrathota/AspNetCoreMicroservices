@@ -8,7 +8,7 @@ using System.Linq;
 using System.Net;
 using System.Threading.Tasks;
 
-namespace Catalog.API.Controllers
+namespace Catalogs.API.Controllers
 {
     [ApiController]
     [Route("api/v1/[controller]")]
